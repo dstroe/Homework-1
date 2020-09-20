@@ -1,4 +1,4 @@
-# TITLE
+# Robinhood Case Study
 
 ## Overview and Origin
 
