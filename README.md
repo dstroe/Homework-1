@@ -12,11 +12,11 @@ April 18th, 2013
 
 * Who are the founders of the company?
 
-Vladimir Tenev and Baiju Bhatt.
+Vladimir Tenev and Baiju Bhatt
 
 * How did the idea for the company (or project) come about?
 
-The founders say that they were inspired by the 2008 financial crisis, and the occupy wall street movement primarily to create the first mobile zero-commission brokerage.
+The founders say that they were inspired by the 2008 financial crisis, and the occupy Wall Street movement primarily to create the first mobile zero-commission brokerage.
 
 * How is the company funded? How much funding have they received?
 
@@ -39,7 +39,7 @@ The company’s intended customer is smaller, new retail traders who are looking
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-They use technologies like Bootstrap,DigiCert, Django, New Relic among others. They use bootstrap, and Django to have a responsive interface for the user while they use New Relic to track the performance of some of the services they offer like Robinhood Gold. 
+They use technologies like Bootstrap, DigiCert, Django, and New Relic among others. They use Bootstrap, and Django to have a responsive interface for the user and New Relic to track the performance of some of the services they offer like Robinhood Gold. 
 
 ## Landscape:
 
@@ -60,11 +60,11 @@ Etrade, Charles Schwab, Fidelity, Interactive Brokers, TD Ameritrade
 
 * What has been the business impact of this company so far?
 
-Has taken some of the business of the brokerages that were established and around for a lot longer as well as has gotten many new participants into the market that had never traded before.
+Has taken some of the business of the brokerages that were established and around for a lot longer and attracted new participants into the market that had never traded before.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-Success is measured both by the number of users using the platform and the profit made off of them although in Robinhood’s case they primarily make money through other means like offering premium services like Robinhood Gold, making interest off of the accounts, and payment for order flow through market making companies such as Citadel securities and Two Sigma.  
+Success is measured both by the number of users using the platform and the profit made off of them; although in Robinhood’s case they primarily make money through other means like offering premium services like Robinhood Gold, making interest off of the accounts, and payment for order flow through market making companies such as Citadel securities and Two Sigma.  
 
 
 * How is your company performing relative to competitors in the same domain?
@@ -75,21 +75,21 @@ It is performing well in comparison to the other competitors in the same domain.
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-I would actually recommend Robinhood to offer the option to pay for commission but not longer have the payment for order flow which is a controversial aspect of the brokerage. 
+I would actually recommend Robinhood to offer traders the option to pay for commission but no longer have the payment for order flow which is a controversial aspect of the brokerage. 
 
 * Why do you think that offering this product or service would benefit the company?
 
-It would add more flexibility to the platform while maintain its staple of having the option to have all of your trades executed on zero commission. 
+It would add more flexibility to the platform while maintaining its staple of having the option to have trades executed on zero commission. 
 
 * What technologies would this additional product or service utilize?
 
-Nothing over what is already currently used in Robinhood would likely take some talented coders to make the interface simple while also allowing those who want to stay completely commission free the ability to keep the current platform with minimal or no changes. 
+Nothing over what is already currently used in Robinhood. It would likely take some talented coders to make the interface simple while also allowing those who want to stay completely commission free the ability to keep the current platform with minimal or no changes. 
 
 
 
 * Why are these technologies appropriate for your solution?
 
-There’s not really any additional technologies that are needed for this solution.
+No additional technologies are needed for this solution.
 
 Sources:
 -Wikipedia
